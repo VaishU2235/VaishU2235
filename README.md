@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vaishak.n@learner.manipal.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17XUuZUQpHDCHYIEXxPXPbuMBIqDVZXzv/view?usp=sharing](https://drive.google.com/file/d/17XUuZUQpHDCHYIEXxPXPbuMBIqDVZXzv/view?usp=sharing)
+- 📄 Know about my experiences [See Resume](https://drive.google.com/file/d/17XUuZUQpHDCHYIEXxPXPbuMBIqDVZXzv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
