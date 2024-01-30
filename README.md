@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaishak N</h1>
 <h3 align="center">A passionate DATA SCIENTIST from India</h3>
 
-- 🌱 I’m currently learning **Knowledge Graphs**
-
 - 👯 I’m looking to collaborate on **Data science projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VaishU2235](https://github.com/VaishU2235)
